@@ -1,0 +1,24 @@
+#secretariat-stream {
+	text-align: center;
+}
+
+h1 {
+	font-family: "Lucida Console", Courier, monospace;
+	font-style: oblique;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Lucida Console", Courier, monospace;
+	font-style: oblique;
+	text-align: center;
+}
+
+footer {
+	font-family: "Lucida Console", Courier, monospace;
+	position: absolute;
+	/* bottom: 0; */
+	width: 100%;
+	/* height: 2.5rem; */
+	text-align: center;
+}
